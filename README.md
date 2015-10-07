@@ -3,7 +3,7 @@
 **Eve colored like Venus**
 
 
-KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/112095
+KSP Forum Thread: http://forum.kerbalspaceprogram.com/threads/136075
 
 Download Latest Release: https://github.com/Sigma88/Sigma-EveRecolor/releases/latest
 
