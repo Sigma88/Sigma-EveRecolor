@@ -1,1 +1,25 @@
-{"NAME":"Sigma: Eve Recolor","URL":"http://ksp-avc.cybutek.net/version.php?id=207","DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/136075","CHANGE_LOG_URL":"https://raw.githubusercontent.com/Sigma88/Sigma-EveRecolor/master/Changelog.txt","VERSION":{"MAJOR":1,"MINOR":2,"PATCH":2,"BUILD":0},"KSP_VERSION":{"MAJOR":1,"MINOR":1,"PATCH":2}}
+{
+	"NAME": "<b><color=#7080FF>Sigma: Eve Recolor</color></b>",
+	"URL": "https://raw.githubusercontent.com/Sigma88/Sigma-Dimensions/master/GameData/Sigma/EveRecolor/Sigma-EveRecolor.version",
+	"DOWNLOAD": "http://forum.kerbalspaceprogram.com/threads/136075",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/Sigma88/Sigma-EveRecolor/master/Changelog.txt",
+	"GITHUB":
+	{
+		"USERNAME": "Sigma88",
+		"REPOSITORY": "Sigma-EveRecolor",
+		"ALLOW_PRE_RELEASE": false
+	},
+	"VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 2,
+		"PATCH": 3,
+		"BUILD": 0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 3,
+		"PATCH": 0
+	}
+}
